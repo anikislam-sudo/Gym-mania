@@ -2,11 +2,11 @@ import Head from 'next/head'
 
 
 
-import Navbar from '@/Components/Navbar/Navbar'
-import Banner from '@/Components/Banner/Banner'
-import Info from '@/Components/Info/Info'
-import CardInfos from '@/Components/CardInfos/CardInfos'
-import Poster from '@/Components/Poster/Poster'
+import Navbar from '@/Components/Navbar/Navbar';
+import Banner from '@/Components/Banner/Banner';
+import Info from '@/Components/Info/Info';
+import CardInfos from '@/Components/CardInfos/CardInfos';
+import Poster from '@/Components/Poster/Poster';
 
 
 

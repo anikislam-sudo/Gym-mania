@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
-import { BsFillArrowRightCircleFill } from 'react-icons/bs';
-import { BsFillPlayCircleFill } from 'react-icons/bs';
+import { BsFillArrowRightCircleFill,BsFillPlayCircleFill } from 'react-icons/bs';
+
 import bag from"../Assets/1000_F_269284141_qzkCnpbk9rI2RK3rKPFGUYRIBVxZigrO_prev_ui.png";
 
 
